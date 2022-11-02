@@ -49,9 +49,9 @@ let handler = async (m, { conn, text, usedPrefix }) => {
         }
     })
 }
-handler.help = ['donasi']
-handler.tags = ['info']
+handler.help = ['owner']
+handler.tags = ['Bot']
 
-handler.command = /^(donasi)$/i
+handler.command = /^(donasi|donate)$/i
 
 export default handler
