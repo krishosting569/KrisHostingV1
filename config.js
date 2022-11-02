@@ -1,5 +1,3 @@
-
-
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
 import { fileURLToPath } from 'url'
@@ -110,8 +108,8 @@ global.danied = '✘ 𝗘𝗥𝗢𝗥 ANJAY'
 /*============== LOGO ==============*/
 global.thumb = 'https://telegra.ph/file/9ece00938d66e45718679.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/9ece00938d66e45718679.jpg'
-global.giflogo = 'https://telegra.ph/file/d882a8ad33368fb0e02e0.jpg'
-global.giflogo2 = 'https://telegra.ph/file/d882a8ad33368fb0e02e0.jpg'
+global.giflogo = 'https://telegra.ph/file/d1d4f88d7786e15d9f955.jpg'
+global.giflogo2 = 'https://telegra.ph/file/d1d4f88d7786e15d9f955.jpg'
 global.thumbs = ['https://telegra.ph/file/9ece00938d66e45718679.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/77d11b06617f0797a45ac.jpg'
@@ -122,7 +120,7 @@ global.intro = 'https://telegra.ph/file/9ece00938d66e45718679.jpg'
 global.nameowner = 'Rizzky 𝘚𝘵𝘰𝘳𝘦'
 global.umurowner = '22'
 global.asalowner = 'Amerika Serikat, New York'
-global.nomorowner = 'wa.me/6285786211623'
+global.nomorowner = 'wa.me/62895711966868'
 global.pacarowner = 'Kepo amat sih;v'
 
 /*============== TEXT ==============*/
