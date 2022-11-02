@@ -31,7 +31,7 @@ ${botdate}
                         description: 'anu',
                         title: `💌 Ultah Owner : ${ohari} Hari ${ojam} Jam ${onet} Menit ${detek} Detik`,
                         body: `Subscribe YT My Bestie`,                                       previewType: 0,
-                        thumbnail: await (await fetch(`https://telegra.ph/file/9ece00938d66e45718679.jpg`)).buffer(),
+                        thumbnail: await (await fetch(`https://telegra.ph/file/d1d4f88d7786e15d9f955.jpg`)).buffer(),
                         sourceUrl: 'https://youtu.be/PeLEpmoiO4U'
             }
         }
